@@ -74,7 +74,7 @@ cd tests
 ```
 
 ```bash
-pyton .\test_api_script.py
+python .\test_api_script.py
 ```
 
 ## Project structure
